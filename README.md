@@ -1,4 +1,4 @@
-# 👋 Caio Anzelman!
+# 👨‍💻 Caio Anzelman!
 
 Estudande de Análise e Desenvolvimento de Sistemas
 
