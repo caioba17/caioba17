@@ -1,6 +1,6 @@
 # 👋 Caio Anzelman!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FAETERJ-Rio  
+Estudande de Análise e Desenvolvimento de Sistemas
 
 ---
 
@@ -27,7 +27,6 @@
 
 ## 📈 GitHub Stats
 
-![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioba17&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioba17&layout=compact&theme=dark)
 
 ---
